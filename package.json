@@ -1,0 +1,15 @@
+{
+  "name": "soundbox",
+  "version": "0.1.0",
+  "description": "JavaScript library for audio processing",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "yuanyan",
+  "license": "MIT",
+  "dependencies": {
+    "fft": "~0.2.1",
+    "progress-bar": "~0.1.1"
+  }
+}
